@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-Dashboard-Task-5
+# Amazon Sales Analysis Dashboard Task 5
 
 📊 Amazon Sales Analysis Dashboard – Task 5 (Power BI Project)
 
@@ -122,12 +122,13 @@ Slicers for interactivity
 (Add screenshot here)
 Example:
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](d)
 
 📂 Project Structure
 📁 Amazon-Sales-Analysis-Dashboard
 │── 📊 Amazon_Dashboard.pbix
-│── 📄 README.md
+│── 📄 README.md<img width="1335" height="748" alt="AMAZON 20 11 2025" src="https://github.com/user-attachments/assets/32df4b56-b8f8-46f4-9dcd-efd4aed307a7" />
+
 │── 📁 Dataset
 │── 📁 Images
 
@@ -145,5 +146,7 @@ Enhanced data storytelling & visualization skills
 
 If you have any suggestions or feedback, feel free to reach out!
 
-📧 Your Email
-🔗 LinkedIn Profile
+📧 Your Email sachinade607@gamil.com
+🔗 LinkedIn Profile www.linkedin.com/in/sachin-ade-8a612a263
+
+
